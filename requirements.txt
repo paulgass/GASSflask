@@ -1,0 +1,13 @@
+flask
+flask-restplus
+Flask-Admin
+flask-sqlalchemy
+flask-marshmallow
+sqlalchemy
+marshmallow-sqlalchemy
+gunicorn
+jinja2
+healthcheck
+psycopg2-binary
+PyJWT
+requests

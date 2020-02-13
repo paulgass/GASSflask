@@ -1,0 +1,24 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+flask-restplus = "*"
+flask-marshmallow = "*"
+marshmallow-sqlalchemy = "*"
+gunicorn = "*"
+healthcheck = "*"
+psycopg2-binary = "*"
+requests = "*"
+Flask = "*"
+Flask-Admin = "*"
+Flask-SQLAlchemy = "*"
+SQLAlchemy = "*"
+Jinja2 = "*"
+PyJWT = "*"
+
+[requires]
+python_version = "3"
